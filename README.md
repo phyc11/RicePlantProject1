@@ -13,7 +13,7 @@
 ### Bước 1:
 Mở `cmd`, chạy lệnh sau:
 ```bash
-git clone https://github.com/phyc11/PlantProject1.git
+git clone https://github.com/phyc11/RicePlantProject1.git
 ```
 
 ### Bước 2:
