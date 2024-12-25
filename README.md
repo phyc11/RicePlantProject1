@@ -5,6 +5,7 @@
 - **MSSV:** 20225068
 - **Mã lớp:** 744275
 - **Tên giảng viên hướng dẫn:** Nguyễn Hồng Quang
+
 ## Giới thiệu
 Đây là dự án thuộc môn Project1 về chủ đề xây dựng mô hình phân loại bệnh trên lá lúa.
 
@@ -13,7 +14,7 @@
 ### Bước 1:
 Mở `cmd`, chạy lệnh sau:
 ```bash
-git clone https://github.com/phyc11/RicePlantProject1.git
+git clone https://github.com/phyc11/PlantProject1.git
 ```
 
 ### Bước 2:
@@ -36,6 +37,12 @@ cd frontend
 
 ### Bước 5:
 Chạy giao diện dự án bằng lệnh:
+
+Nếu chạy lần đầu, dùng thêm câu lệnh:
+```bash
+npm install
+```
+Sau đó, chạy lệnh:
 ```bash
 npm start
 ```
