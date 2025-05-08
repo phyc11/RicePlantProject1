@@ -1,6 +1,6 @@
 # PlantProject1
 ## Introduction
-This is a Project1 course project focusing on building a classification model for rice leaf diseases.
+This is a project focusing on building a classification model for rice leaf diseases.
 ## Project Setup Instructions
 ### Step 1:
 Open `cmd` and run the following command:
